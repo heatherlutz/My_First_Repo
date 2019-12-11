@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First HTML</title>
+    <head>
+    <body>
+        <h1>This is my Title</h1>
+        <p><a href="http://www.google.com" target="_blank">hello this is my paragraph i did not have time to have dog ipsum and i do not know how to type lorem ipsum</p>
+    </body>
+</html>
